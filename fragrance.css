@@ -750,12 +750,12 @@
     }
 
     .container2 .box{
-        margin-left: 5%;
-        margin-top: 3%;
+        margin-left: -3%;
+        margin-top: -1%;
     }
     
     .container2 .box h2{
-        margin-top: 8px;
+        margin-top: 10px;
         font-size: 22px;
         width: 120px;
     }
