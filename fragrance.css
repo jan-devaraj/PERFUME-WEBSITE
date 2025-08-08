@@ -662,7 +662,7 @@
     
     .title1 button{
         position: absolute;
-        top: 95%;
+        top: 90%;
         left: 25%;
         height: 40px;
         width: 120px;
@@ -708,7 +708,7 @@
         flex-wrap: wrap;
         gap: 30px;
         padding-left: 10px;
-        height: 650px;
+        height: 750px;
         width: 100%;
         
     }
@@ -750,7 +750,7 @@
     }
     
     .container2 .box h2{
-        margin-top: 8px;
+        margin-top: 3px;
         font-size: 22px;
         width: 120px;
     }
