@@ -748,6 +748,11 @@
         font-size: 20px;
         text-align: justify;
     }
+
+    .container2 .box{
+        margin-left: 5%;
+        margin-top: 3%;
+    }
     
     .container2 .box h2{
         margin-top: 8px;
@@ -756,8 +761,8 @@
     }
     
     .container2 .box p{
-        margin-top: 8px;
-        margin-left: 10px;
+        margin-top: 15px;
+        margin-left: 20px;
         font-size: 20px;
         text-align: justify;
     }
