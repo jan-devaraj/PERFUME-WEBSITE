@@ -504,7 +504,7 @@ font-weight: 500;
 
     .picture button{
         position: absolute;
-        top: 290px;
+        top: 310px;
         left: 23%;
         height: 40px;
         width: 120px;
@@ -625,6 +625,9 @@ font-weight: 500;
         margin-top: 20px;
         text-transform: uppercase;
     }
+    .pages{
+        overflow: hidden;
+    }
     
     .container2 footer{
         text-align: center;
@@ -632,7 +635,7 @@ font-weight: 500;
         color: white;
         display: flex;
         flex-wrap: wrap;
-        gap: 50px;
+        gap: 30px;
         padding-left: 10px;
         height: 650px;
         width: 100%;
@@ -676,7 +679,7 @@ font-weight: 500;
     }
     
     .container2 .box h2{
-        margin-top: 10px;
+        margin-top: 8px;
         font-size: 22px;
         width: 130px;
     }
@@ -695,15 +698,13 @@ font-weight: 500;
         
     }
     .container2  .copy p{
-        margin-top: 10%;
+        margin-top: 8%;
         margin-bottom: 15px;
         width: 380px;
         font-size: 18px;
     }
 
-    .pages{
-        overflow: hidden;
-    }
+    
 }
 
 

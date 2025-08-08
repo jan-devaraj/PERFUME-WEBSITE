@@ -515,7 +515,7 @@
     .picture p{
         position: absolute;
         top: 180px;
-        left: 10%;
+        left: 8%;
         font-size: 25px;
         font-weight: 500;
         color: white;
@@ -526,7 +526,7 @@
     
     .picture button{
         position: absolute;
-        top: 340px;
+        top: 345px;
         left: 27%;
         height: 40px;
         width: 120px;
@@ -650,7 +650,7 @@
     
     .title2{
         background-color: rgb(241, 223, 199);
-        height: 860px;
+        height: 880px;
         margin-top: 25px;
     }
     
@@ -680,7 +680,7 @@
     .pic img{
         height: 100px;
         width: 100px;
-        margin-left: 40px;
+        margin-left: 20px;
         
     }
     
@@ -690,6 +690,9 @@
         font-weight: 700;
         margin-top: 35px;
         text-transform: uppercase;
+    }
+    .pages{
+        overflow: hidden;
     }
     
     .container2 footer{
@@ -742,9 +745,9 @@
     }
     
     .container2 .box h2{
-        margin-top: 10px;
+        margin-top: 8px;
         font-size: 22px;
-        width: 130px;    
+        width: 120px;    
     }
     
     .container2 .box p{
@@ -761,15 +764,13 @@
         
     }
     .container2  .copy p{
-        margin-top: 10%;
+        margin-top: 8%;
         margin-bottom: 15px;
         width: 380px;
         font-size: 18px;
     }
 
-    .pages{
-        overflow: hidden;
-    }
+    
 }
 
 
