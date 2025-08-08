@@ -662,7 +662,7 @@
     
     .title1 button{
         position: absolute;
-        top: 90%;
+        top: 88%;
         left: 25%;
         height: 40px;
         width: 120px;
@@ -696,9 +696,9 @@
         margin-top: 20px;
         text-transform: uppercase;
     }
-    .pages{
+    /* .pages{
         overflow: hidden;
-    }
+    } */
     
     .container2 footer{
         text-align: center;
@@ -708,7 +708,7 @@
         flex-wrap: wrap;
         gap: 30px;
         padding-left: 10px;
-        height: 750px;
+        height: 650px;
         width: 100%;
         
     }
